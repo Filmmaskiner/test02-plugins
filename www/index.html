@@ -3,7 +3,9 @@
 <script type="text/javascript">
 document.addEventListener("deviceready", onDeviceReady, false);
 function onDeviceReady() {
-    console.log(navigator.vibrate);
-	navigator.vibrate(3000);
+    //console.log(navigator.vibrate);
+	navigator.notification.vibrate(1000);
 }
 </script>
+This is my script. Welcome (you should be vibrating)<br>
+<input type="button" onClick="javascript:navigator.notification.vibrate(3000);" value="Now">
