@@ -7,10 +7,10 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Alternate World</name>
+  <name>Plugin-test</name>
 
   <description>
-      Test #1
+      Test #2
   </description>
 
   <author href="https://build.phonegap.com" email="support@phonegap.com">
