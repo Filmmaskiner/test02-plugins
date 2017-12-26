@@ -19,7 +19,7 @@
 
   <icon src="icon.png" />
 
-<!--  <plugin name="cordova-plugin-vibration" spec="~3.0.0" source="npm"/>-->
-  <plugin spec="https://github.com/apache/cordova-plugin-vibration.git" source="git" />
+  <plugin name="cordova-plugin-vibration" spec="~3.0.0" source="npm"/>
+  <!--<plugin spec="https://github.com/apache/cordova-plugin-vibration.git" source="git" />-->
 
 </widget>
