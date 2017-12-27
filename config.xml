@@ -22,5 +22,8 @@
   <plugin name="cordova-plugin-vibration" spec="3.0.0" />
   <!-- <plugin name="cordova-plugin-camera" spec="4.0.0" source="npm" /> -->
   <!--<plugin spec="https://github.com/apache/cordova-plugin-vibration.git" source="git" />-->
+<feature name="Notification">
+    <param name="android-package" value="org.apache.cordova.Notification" />
+</feature>
 
 </widget>
