@@ -20,6 +20,7 @@
   <icon src="icon.png" />
 
   <plugin name="cordova-plugin-vibration" spec="3.0.0" source="npm" />
+  <plugin name="cordova-plugin-camera" spec="4.0.0" />
   <!--<plugin spec="https://github.com/apache/cordova-plugin-vibration.git" source="git" />-->
 
 </widget>
